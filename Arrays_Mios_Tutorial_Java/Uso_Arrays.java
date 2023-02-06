@@ -12,7 +12,11 @@ public class Uso_Arrays {
         mi_matriz[4] = 71; */
 
         //Otra forma de declararlo más simplificada
-        int [] mi_matriz = {5, 38, -15, 92, 71};
+        int [] mi_matriz = {5, 38, -15, 92, 7};
+
+
+        mi_matriz[mi_matriz.length-1] = 2222; //reasigno la última posición
+
 
         for (int i=0; i<mi_matriz.length; i++) {
 
