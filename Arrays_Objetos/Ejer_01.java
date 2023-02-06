@@ -11,7 +11,7 @@ public class Ejer_01 {
         productos[] obj = new productos[5];
 
         //crear e inicializar objetos productos. este caso lo hago a mbano y no con un for
-        productos p0 = new productos(001, "Freidora de aire");
+        /*productos p0 = new productos(001, "Freidora de aire");
         productos p1 = new productos(002, "Tablet");
         productos p2 = new productos(003, "Estuche");
         productos p3 = new productos(004, "Cantimplora");
@@ -21,7 +21,7 @@ public class Ejer_01 {
         obj[1] = p1;
         obj[2] = p2;
         obj[3] = p3;
-        obj[4] = p4;
+        obj[4] = p4;*/
 
         //display the product object data
         System.out.println("Product Object 1:");
