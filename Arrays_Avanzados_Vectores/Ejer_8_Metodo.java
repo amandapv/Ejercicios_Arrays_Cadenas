@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ejer_8_Metodo {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-
+         
         double [] num = new double [100];
         double numUser = 0;
         int cont = 0;
