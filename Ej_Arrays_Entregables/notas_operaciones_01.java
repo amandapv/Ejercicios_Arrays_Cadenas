@@ -3,7 +3,7 @@ package Ej_Arrays_Entregables;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class notas_operaciones {
+public class notas_operaciones_01 {
 
     public static void mostrarNotas(ArrayList<notas_alumnos_01> arraylist_notas) {
         int pos = 0;
